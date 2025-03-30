@@ -1,0 +1,27 @@
+body {
+    padding: 50px 10px;
+    margin: 0 auto;
+    width: 90vw;
+    min-height: calc(100vh - 100px);
+    text-align: center;
+}
+main {
+    margin: 0 auto;
+    padding: 663px 305.167px;
+}
+hr {
+    margin: 30px auto;
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+section {
+    text-align: center;
+    padding: 50px 50px;
+    display: inline-block;
+    min-height: 100px;
+    width: 30%;
+}
+span {
+    font-weight: bold;
+}
